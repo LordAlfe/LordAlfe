@@ -1,0 +1,3 @@
+- Hola, bienvenido mi nombre (Por lo menos aqui) es Alfe
+- Soy un estudiante de Ingeniera en Informatica con ansias de aprender mas y mas
+- Poseo conocimientos basicos en *HTML5*, *CSS3*, *Bootstrap*, *JavaScript*, *Java* y un poco mas avanzados en *Python* y su framework Back-End, *DJANGO*
