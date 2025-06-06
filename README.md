@@ -1,3 +1,3 @@
 - Hola,bienvenido
-- Soy un estudiante de Ingeniera en Informatica con ansias de aprender mas y mas
+- Soy un estudiante de Ingeniería en Informática.
 - Poseo conocimientos basicos en *HTML5*, *CSS3*, *Bootstrap*, *JavaScript*, *Java* y un poco mas avanzados en *Python* y su framework Back-End, *DJANGO*
